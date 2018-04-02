@@ -1,0 +1,52 @@
+#toMain
+{
+ height: 40px;
+ width: 15%;
+ //border: 2px solid #cccccc;
+ float: left;
+ margin-left: 20px;
+ background: grey;
+}
+#toMainWords
+{
+ //color: white;
+}
+a
+{
+ padding: 20px;
+ padding-bottom: 5px;
+ color: white;
+ text-decoration: none;
+ font-size: 32px;
+}
+a:hover
+{
+ color: red;
+}
+table
+{
+ height: 300px;
+ width: 900px;
+ border: 2px solid #cccccc;
+ bgcolor: #D3D3D3;
+}
+#block1
+{
+ height: 30px;
+ width: 40px;
+ background: green;
+ color: green;
+}
+#lab
+{
+ height: 30px;
+ width: 40px;
+ background: green;
+}
+#zagolovokGrafika
+{
+ height: 80px;
+ width: 35%;
+ margin: 0 auto;
+ text-align: center;
+}

@@ -1,0 +1,63 @@
+#head
+{
+ height: 150px;
+ width: 90%;
+ //border: 2px solid #cccccc;
+ margin: 0 auto;
+}
+#MS
+{
+ height: 120px;
+ width: 50%;
+ //border: 2px solid #cccccc;
+ float: left;
+ padding-bottom: 10px;
+}
+#telefon
+{
+ height: 90px;
+ width: 30%;
+ //border: 2px solid #cccccc;
+ float: right;
+ font-size:24px;
+ padding-top: 10px;
+ 
+}
+#menu
+{
+ height: 50px;
+ width: 90%;
+ background: grey;
+ margin: 0 auto;
+ font-size:28px;
+ padding-top: 30px;
+ text-align: center;
+ //color: white;
+}
+#menu a
+{
+ padding: 30px;
+ color: white;
+ text-decoration: none;
+ 
+}
+a:hover
+{
+ color: red;
+}
+#zagolovokSTK
+{
+ height: 100px;
+ width: 90%;
+ margin: 0 auto;
+ text-align: center;
+}
+#soderganieSTK
+{
+ height: 400px;
+ width: 60%;
+ margin: 0 auto;
+ text-align: left;
+ border: 2px solid #cccccc;
+ padding-left: 20px;
+}

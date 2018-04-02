@@ -1,0 +1,112 @@
+#toMain
+{
+ height: 40px;
+ width: 15%;
+ //border: 2px solid #cccccc;
+ float: left;
+ margin-left: 20px;
+ background: grey;
+}
+a
+{
+ padding: 20px;
+ padding-bottom: 5px;
+ color: white;
+ text-decoration: none;
+ font-size: 32px;
+}
+a:hover
+{
+ color: red;
+}
+#zagolovokSTK
+{
+ height: 100px;
+ width: 90%;
+ margin: 0 auto;
+ text-align: center;
+}
+.soderganieSTK
+{
+ height: 640px;
+ width: 80%;
+ margin: 0 auto;
+ text-align: left;
+ border: 2px solid #cccccc;
+ padding-left: 20px;
+}
+#ris1Zagolovok
+{
+  height: 30px;
+  width: 98%;
+  margin-top: 20px;
+  //border: 2px solid #cccccc;
+  text-align: center;
+}
+#ris1Diagr
+{
+ height: 550px;
+ width: 40%;
+ float: left; 
+ border: 2px solid #cccccc;
+}
+#ris1Tabl
+{
+ height: 550px;
+ width: 57%;
+ float: right; 
+ //border: 2px solid #cccccc;
+ font-size: 11px;
+ text-align: center;
+}
+#prilogAzagolovok
+{
+ height: 70px;
+ width: 98%;
+ text-align: center;
+ border: 2px solid #cccccc;
+}
+#prilogAutvergd
+{
+ height: 90px;
+ width: 98%;
+ text-align: right;
+ border: 2px solid #cccccc;
+}
+#prilogAkpp
+{
+ height: 20px;
+ width: 98%;
+ text-align: center;
+ border: 2px solid #cccccc;
+ font-size: 14px;
+}
+#prilogAadres
+{
+ height: 100px;
+ width: 98%;
+ text-align: left;
+ border: 2px solid #cccccc;
+}
+#prilogAtab
+{
+ font-size: 12px;
+}
+#prilogAmp
+{
+ height: 80px;
+ width: 30%;
+ text-align: left;
+ border: 2px solid #cccccc;
+ float:left;
+}
+#prilogAfio
+{
+ height: 50px;
+ width: 30%;
+ text-align: left;
+ border: 2px solid #cccccc;
+ float: right;
+}
+
+
